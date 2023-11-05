@@ -10,7 +10,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 ✯ Lɪʙʀᴀʀʏ: <a href='https://openlibrary.org/'>Use This Web</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://te.m.wikipedia.org/wiki/%E0%B0%A4%E0%B1%86%E0%B0%B2%E0%B1%81%E0%B0%97%E0%B1%81'>TELUGU</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
-✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://t.me/ajbackupp'>Aj Server</a>
+✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://t.me/AjCinemassOfcl'>Aj Server</a>
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.7.1 [ Sᴛᴀʙʟᴇ ]</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
@@ -199,7 +199,7 @@ Nᴀᴍᴇ - {}"""
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @ajbackupp
+▫️ ᴄʜᴀɴɴᴇʟ : @AjCinemassOfcl
 ▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @LDecaprioo
 =========== • ✠ • ===========</b>"""
 
